@@ -38,5 +38,3 @@
   <img src="https://img.shields.io/badge/Docker-0e1116?logo=docker&logoColor=8b5cf6" alt="Docker"/>
 </p>
 
-    def dispatch(self, e: Event):
-        self.port.send(f"{e.kind}::{e.payload}".encode())
