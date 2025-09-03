@@ -16,7 +16,7 @@
 - all repos: https://github.com/open955?tab=repositories
 
 ### 📫 contact
-- discord: **qejr**  
+- discord: **open.sh**  
 - server: https://discord.gg/UaSxuYHdZq
 
 ---
